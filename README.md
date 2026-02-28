@@ -22,7 +22,7 @@ The A* algorithm was chosen for its efficiency in finding the shortest path in s
 
 To run this project, ensure you have Java Development Kit (JDK) installed on your machine.
 
-1. Clone this repository: git clone https://github.com/ravijaanthony/algo_cwk.git
+1. Clone this repository.
 2. Navigate to the project directory: cd algo_cwk
 3. Compile the Java files: javac *.java
 4. OR run it in your IDE
