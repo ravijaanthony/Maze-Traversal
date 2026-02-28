@@ -29,6 +29,3 @@ To run this project, ensure you have Java Development Kit (JDK) installed on you
 
 Running the program would output the shortest path from 'S' to 'F' in the maze.
 
-## Credits
-
-This project was developed by Ravija Anthony as coursework for DSA-UoW/IIT.
