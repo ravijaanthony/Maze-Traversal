@@ -23,9 +23,9 @@ The A* algorithm was chosen for its efficiency in finding the shortest path in s
 To run this project, ensure you have Java Development Kit (JDK) installed on your machine.
 
 1. Clone this repository.
-2. Navigate to the project directory: cd algo_cwk
+2. Navigate to the project directory: cd Maze-Traversal
 3. Compile the Java files: javac *.java
-4. OR run it in your IDE
+4. OR run main.java in your IDE
 
 Running the program would output the shortest path from 'S' to 'F' in the maze.
 
